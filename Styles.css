@@ -1,1 +1,25 @@
-<!DOCTYPE css>
+body{
+background-color:#f0efeb;
+}
+
+head{
+background-color:#eecfba;
+color: #a5a58d
+}
+
+nav{
+background-color:#eecfba;
+font-size: 20px;
+position: relative
+border: #fefae0 2px
+}
+
+a{
+background-color: #eecfba
+color: #a5a58d
+}
+
+a:hover{
+background-color: #a5a58d;
+color: #eecfba
+}
