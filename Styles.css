@@ -15,21 +15,22 @@ color: #a5a58d;
 }
 
 nav{
-background-color:#eecfba;
-font-size: 20px;
-position: relative;
-border: #fefae0 2px;
-color:  #a5a58d
+
 }
 
 a{
-background-color: #eecfba;
-color: #a5a58d;
+background-color: #9a7ec0;
+color: #c0e3ee;
+font-size: 125%;
 }
 
 
 a:hover{
-background-color: #a5a58d;
-color: #eecfba
+background-color: #c0e3ee;
+color: #9a7ec0
+}
+
+h1{
+    color: #5f3b96;
 }
 
