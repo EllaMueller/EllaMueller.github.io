@@ -1,10 +1,17 @@
+html{
+background-image: linear-gradient(rgb(221, 179, 235), rgb(171, 226, 226));
+background-size: cover;
+background-repeat: no-repeat;
+height:100%;
+}
+
 body{
-background-color:#f0efeb;
+    min-height:100vh-8pt;
 }
 
 head{
 background-color:#eecfba;
-color: #a5a58d
+color: #a5a58d;
 }
 
 nav{
@@ -20,12 +27,9 @@ background-color: #eecfba;
 color: #a5a58d;
 }
 
+
 a:hover{
 background-color: #a5a58d;
 color: #eecfba
 }
 
-art{
-    width:50%;
-    height:50%
-}
