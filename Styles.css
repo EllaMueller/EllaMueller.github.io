@@ -15,17 +15,17 @@ color: #a5a58d;
 }
 
 a{
-color: #215869;
+color: #d79922;
 font-size: 125%;
 cursor: url(), pointer;
 }
 
 
 a:hover{
-background-color: #c0e3ee;
-color: #9a7ec0;
+background-color: #d79922;
+color: #efe2ba;
 }
 
 h1{
-    color: #5f3b96;
+    color: #4056a1;
 }
