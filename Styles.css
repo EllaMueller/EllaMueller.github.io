@@ -9,23 +9,29 @@ body{
     min-height:100vh-8pt;
 }
 
-head{
-background-color:#d79922;
-color: #a5a58d;
-}
-
 a{
-color: #d79922;
-font-size: 125%;
-cursor: url(), pointer;
+color: #f7b942;
+background-color:#fd5b55;
+font-size: 110%;
+font-weight:bold;
+border:5px solid #fd5b55;
+border-radius:30px;
 }
-
 
 a:hover{
-background-color: #d79922;
 color: #efe2ba;
+background-color:#f7b942;
+font-size: 110%;
+font-weight:bold;
+border:5px solid #f7b942;
+border-radius:30px;
 }
 
-h1{
+h1 {
     color: #4056a1;
+    text-align:center;
+}
+
+h2{
+    font-size:90%;
 }
