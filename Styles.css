@@ -5,6 +5,10 @@ background-repeat: no-repeat;
 height:100%;
 }
 
+h3{
+    color:#3a1f79
+}
+
 body{
     min-height:100vh-8pt;
 }
