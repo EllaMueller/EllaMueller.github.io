@@ -1,5 +1,5 @@
 html{
-background-image: linear-gradient(rgb(221, 179, 235), rgb(171, 226, 226));
+background-color: #efe2ba;
 background-size: cover;
 background-repeat: no-repeat;
 height:100%;
@@ -10,26 +10,22 @@ body{
 }
 
 head{
-background-color:#eecfba;
+background-color:#d79922;
 color: #a5a58d;
-}
-
-nav{
-
 }
 
 a{
 color: #215869;
 font-size: 125%;
+cursor: url(), pointer;
 }
 
 
 a:hover{
 background-color: #c0e3ee;
-color: #9a7ec0
+color: #9a7ec0;
 }
 
 h1{
     color: #5f3b96;
 }
-
